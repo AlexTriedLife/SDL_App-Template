@@ -1,0 +1,3 @@
+F:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\SDL_TEMPLATE.dir/objects.a
+F:\msys64\mingw64\bin\ar.exe qc CMakeFiles\SDL_TEMPLATE.dir/objects.a @CMakeFiles\SDL_TEMPLATE.dir\objects1.rsp
+F:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SDL_TEMPLATE.dir/objects.a -Wl,--no-whole-archive -o SDL_TEMPLATE.exe -Wl,--out-implib,libSDL_TEMPLATE.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SDL_TEMPLATE.dir\linkLibs.rsp
