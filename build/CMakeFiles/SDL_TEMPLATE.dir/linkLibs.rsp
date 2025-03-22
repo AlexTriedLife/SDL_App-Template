@@ -1,1 +1,0 @@
- "C:/Program Files (x86)/SDL3_image/lib/libSDL3_image.dll.a" "F:/Libraries/C++/SDL3-3.2.6/libSDL3.dll.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

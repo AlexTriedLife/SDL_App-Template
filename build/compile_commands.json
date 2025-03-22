@@ -1,8 +1,0 @@
-[
-{
-  "directory": "F:/Projects/C++/SDL_App Template/build",
-  "command": "F:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/SDL_TEMPLATE.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\SDL_TEMPLATE.dir\\src\\main.cpp.obj -c \"F:\\Projects\\C++\\SDL_App Template\\src\\main.cpp\"",
-  "file": "F:/Projects/C++/SDL_App Template/src/main.cpp",
-  "output": "CMakeFiles/SDL_TEMPLATE.dir/src/main.cpp.obj"
-}
-]
